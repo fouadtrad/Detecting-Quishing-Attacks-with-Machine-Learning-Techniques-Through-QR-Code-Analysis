@@ -2,6 +2,8 @@
 
 This repository contains the dataset and code associated with our paper accepted at the **8th International Conference on Optimization and Learning (2025) in Dubai**. Our research introduces a novel approach for detecting QR code-based phishing attacks (**“Quishing”**) by analyzing QR code structure and pixel patterns without extracting the embedded content.
 
+Arxiv link: [https://arxiv.org/abs/2505.03451](https://arxiv.org/abs/2505.03451)
+
 ## **📜 Abstract**
 
 The rise of QR code-based phishing (*“Quishing”*) poses a growing cybersecurity threat, as attackers increasingly exploit QR codes to bypass traditional phishing defenses. Existing detection methods predominantly focus on URL analysis, requiring payload extraction, which may inadvertently expose users to malicious content. Moreover, QR codes encode various data types beyond URLs (e.g., Wi-Fi credentials, payment information), making URL-based detection insufficient for broader security concerns.
@@ -69,13 +71,4 @@ plt.show()
 ## **📝 Citation**
 If you use this dataset or code in your research, please cite our work:
 
-```bibtex
-@inproceedings{trad2025quishing,
-  author    = {Fouad Trad, Ali Chehab},
-  title     = {Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis},
-  booktitle = {Proceedings of the 8th International Conference on Optimization and Learning},
-  year      = {2025},
-  location  = {Dubai, UAE}
-}
-
-```
+**Trad, F. and Chehab, A., 2025. Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis. arXiv preprint arXiv:2505.03451.**
