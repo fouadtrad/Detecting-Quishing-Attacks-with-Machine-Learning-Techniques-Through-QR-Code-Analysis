@@ -1,6 +1,6 @@
 # Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis
 
-This repository contains the dataset and code associated with our paper accepted at the **8th International Conference on Optimization and Learning (2025) in Dubai**. Our research introduces a novel approach for detecting QR code-based phishing attacks (**“Quishing”**) by analyzing QR code structure and pixel patterns without extracting the embedded content.
+This repository contains the dataset and code associated with our paper "Detecting Quishing Attacks with Machine Learning Techniques Through QR Code Analysis". Our research introduces a novel approach for detecting QR code-based phishing attacks (**“Quishing”**) by analyzing QR code structure and pixel patterns without extracting the embedded content.
 
 Arxiv link: [https://arxiv.org/abs/2505.03451](https://arxiv.org/abs/2505.03451)
 
